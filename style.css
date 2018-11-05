@@ -1,0 +1,25 @@
+.fightstats{
+    background-color: red;
+}
+
+
+#fighter{
+    transform: translateY(-1600px);
+    color: blue;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#strikes{
+    transform: translateY(-1600px);
+    color: blue;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#takedowns{
+    transform: translateY(-1600px);
+    color: blue;
+    font-size: 30px;
+    font-family: sans-serif
+}
