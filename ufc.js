@@ -63,7 +63,8 @@ d3.csv("ufc-data.csv", function(data){
             else{
                 return "pink";
             }
-    })
+        })
+
     
 
     var fighters = d3.nest()
